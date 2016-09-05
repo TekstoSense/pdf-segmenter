@@ -7,14 +7,17 @@ The supervised approach suffers from specificity. The existing unsupervised appr
 
 Note : It also works for other type of general pdf documents but accuracy is less than 90%. In our subsequent releases we will improvise the accuracy of other pdf document like books etc.
 
-## Supported PDF Type
+## Supported Type
 
-- All Journals and Published Papers
-- White Papers and other general type PDF
+- All Journals and Published Papers.
+- White Papers and other general type PDF.
+- Only unstructered document
 
 ## Upcoming Releases
 
 - Patent document support
+- CRF based model for supervised approach of identifying sections from scientifc articles
+- TEI support
 
 ## Dependency
 
