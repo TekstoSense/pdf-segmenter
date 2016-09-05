@@ -10,7 +10,7 @@ Note : It also works for other type of general pdf documents but accuracy is les
 ## Supported PDF Type
 
 - All Journals and Published Papers
-- White Papers and other general typ PDF
+- White Papers and other general type PDF
 
 ## Upcoming Releases
 
@@ -19,3 +19,8 @@ Note : It also works for other type of general pdf documents but accuracy is les
 ## Dependency
 
 - PDFBox 2.0
+
+## License
+
+Apache 2.0
+
