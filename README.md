@@ -21,7 +21,7 @@ Note : It also works for other type of general pdf documents but accuracy is les
 
 ## Dependency
 
-`PDFBox 2.0`
+`PDFBox 2.0.2`
 
 ## License
 
