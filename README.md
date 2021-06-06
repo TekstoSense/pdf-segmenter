@@ -25,5 +25,5 @@ Note : It also works for other type of general pdf documents but accuracy is les
 
 ## License
 
-`Apache 2.0`
+`GNU`
 
